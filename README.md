@@ -1,2 +1,3 @@
 # odin-recipes
 Project recipes 
+Current project is a recipe of something or another for the Odin Project. I believe I have only just scratched the surface when it comes to just HTML, let alone programming. Ive learned about boilerplate, UTF, set lang, header, body, ordered lists, unordered lists and other shit I dont remember the specific names for. Im also making burritos right now and Im not even sure if im doing this README correctly.tou
